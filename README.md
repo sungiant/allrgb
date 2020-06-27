@@ -1,6 +1,6 @@
 # 256 x 256 x 256
 
-[![Build Status](https://travis-ci.org/sungiant/allrgb.png?branch=master)](https://travis-ci.org/sungiant/allrgb)
+[![Build Status](https://img.shields.io/travis/sungiant/allrgb)](https://travis-ci.org/sungiant/allrgb)
 [![License](https://img.shields.io/github/license/sungiant/allrgb)](https://github.com/sungiant/allrgb/blob/master/LICENSE)
 
 [allrgb.com](http://www.allrgb.com) is home to an interesting programming challenge: "Create images with one pixel for every RGB colour (16777216 total); not one colour missing, and not one colour used more than once."
